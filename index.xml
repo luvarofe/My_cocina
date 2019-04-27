@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>pollo</title>
+ <thumbnails>https://www.dropbox.com/s/0kv8blo7cgf0km3/icon.png?dl=0</thumbnails>
+ <fanart></fanart>
+ <link></link>
+  <externallink>https://raw.githubusercontent.com/luvarofe/_cocina/master/pollo.xml</externallink>
+  </item>
+  
+ <item>
+ <title>patatas</title>
+ <thumbnails>https://www.dropbox.com/s/0kv8blo7cgf0km3/icon.png?dl=0</thumbnails>
+ <fanart></fanart>
+ <link></link>
+  <externallink>https://raw.githubusercontent.com/luvarofe/_cocina/master/patatas.xml</externallink>
+  </item>
+  
+  <item>
+  <title>patas</title>
+ <thumbnails>https://www.dropbox.com/s/0kv8blo7cgf0km3/icon.png?dl=0</thumbnails>
+ <fanart></fanart>
+ <link></link>
+  <externallink>https://raw.githubusercontent.com/luvarofe/_cocina/master/patas.xml</externallink>
+  </item>
+  
+    <title>callos</title>
+ <thumbnails>https://www.dropbox.com/s/0kv8blo7cgf0km3/icon.png?dl=0</thumbnails>
+ <fanart></fanart>
+ <link>https://raw.githubusercontent.com/luvarofe/_cocina/master/callos.xml</link>
+  <externallink></externallink>
+  </item>
+  
+    <title>calamares</title>
+ <thumbnails>https://www.dropbox.com/s/0kv8blo7cgf0km3/icon.png?dl=0</thumbnails>
+ <fanart></fanart>
+ <link></link>
+  <externallink>https://raw.githubusercontent.com/luvarofe/_cocina/master/calamares.xml</externallink>
+  </item>
+  
+    <title>arroz</title>
+ <thumbnails>https://www.dropbox.com/s/0kv8blo7cgf0km3/icon.png?dl=0</thumbnails>
+ <fanart></fanart>
+ <link></link>
+  <externallink>https://raw.githubusercontent.com/luvarofe/_cocina/master/arroz.xml</externallink>
+  </item>
