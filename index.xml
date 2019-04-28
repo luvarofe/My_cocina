@@ -24,7 +24,7 @@
   <externallink>https://raw.githubusercontent.com/luvarofe/My_cocina/master/patas.xml</externallink>
   </item>
   
-   </item>
+   <item>
    <title>callos</title>
  <thumbnails>https://archive.org/download/luvarofe_gmail_Icon_201904/icon.png</thumbnails>
  <fanart>https://ia801400.us.archive.org/18/items/fanart_20190428/fanart.jpg</fanart>
@@ -32,7 +32,7 @@
   <externallink>https://raw.githubusercontent.com/luvarofe/My_cocina/master/callos.xml</externallink>
   </item>
   
-<tem>
+<item>
 <title>calamares</title>
  humbnails>https://archive.org/download/luvarofe_gmail_Icon_201904/icon.png</thumbnails>
  <fanart>https://ia801400.us.archive.org/18/items/fanart_20190428/fanart.jpg</fanart>
@@ -42,7 +42,7 @@
 
 <item>
 <title>arroz</title>
- humbnails>https://archive.org/download/luvarofe_gmail_Icon_201904/icon.png</thumbnails>
+ <humbnails>https://archive.org/download/luvarofe_gmail_Icon_201904/icon.png</thumbnails>
  <fanart>https://ia801400.us.archive.org/18/items/fanart_20190428/fanart.jpg</fanart>
  <link>http://ignoreme</link>
   <externallink>https://raw.githubusercontent.com/luvarofe/My_cocina/master/arroz.xml</externallink>
