@@ -2,34 +2,34 @@
 
 <item>
 <title>pollo</title>
- <thumbnails>https://archive.org/download/luvarofe_gmail_Icon_201904/icon.png</thumbnails>
+ <humbnails>https://archive.org/download/luvarofe_gmail_Icon_201904/icon.png</thumbnails>
  <fanart>https://ia801400.us.archive.org/18/items/fanart_20190428/fanart.jpg</fanart>
- <link></link>
+ <link>http://ignoreme</link>
   <externallink>https://raw.githubusercontent.com/luvarofe/My_cocina/master/pollo.xml</externallink>
   </item>
   
- <item>
- <title>patatas</title>
- <thumbnails>https://archive.org/download/luvarofe_gmail_Icon_201904/icon.png</thumbnails>
+<item>
+<title>patatas</title>
+ <humbnails>https://archive.org/download/luvarofe_gmail_Icon_201904/icon.png</thumbnails>
  <fanart>https://ia801400.us.archive.org/18/items/fanart_20190428/fanart.jpg</fanart>
- <link></link>
+ <link>http://ignoreme</link>
   <externallink>https://raw.githubusercontent.com/luvarofe/My_cocina/master/patatas.xml</externallink>
   </item>
-  
-  <item>
-  <title>patas</title>
- <thumbnails>https://archive.org/download/luvarofe_gmail_Icon_201904/icon.png</thumbnails>
+
+<item>
+<title>patas</title>
+ <humbnails>https://archive.org/download/luvarofe_gmail_Icon_201904/icon.png</thumbnails>
  <fanart>https://ia801400.us.archive.org/18/items/fanart_20190428/fanart.jpg</fanart>
- <link></link>
+ <link>http://ignoreme</link>
   <externallink>https://raw.githubusercontent.com/luvarofe/My_cocina/master/patas.xml</externallink>
   </item>
   
-   <item>
-   <title>callos</title>
- <thumbnails>https://archive.org/download/luvarofe_gmail_Icon_201904/icon.png</thumbnails>
+<item>
+<title>arroz</title>
+ <humbnails>https://archive.org/download/luvarofe_gmail_Icon_201904/icon.png</thumbnails>
  <fanart>https://ia801400.us.archive.org/18/items/fanart_20190428/fanart.jpg</fanart>
- <link></link>
-  <externallink>https://raw.githubusercontent.com/luvarofe/My_cocina/master/callos.xml</externallink>
+ <link>http://ignoreme</link>
+  <externallink>https://raw.githubusercontent.com/luvarofe/My_cocina/master/arroz.xml</externallink>
   </item>
   
 <item>
@@ -40,10 +40,3 @@
   <externallink>https://raw.githubusercontent.com/luvarofe/My_cocina/master/calamares.xml</externallink>
   </item>
 
-<item>
-<title>arroz</title>
- <humbnails>https://archive.org/download/luvarofe_gmail_Icon_201904/icon.png</thumbnails>
- <fanart>https://ia801400.us.archive.org/18/items/fanart_20190428/fanart.jpg</fanart>
- <link>http://ignoreme</link>
-  <externallink>https://raw.githubusercontent.com/luvarofe/My_cocina/master/arroz.xml</externallink>
-  </item>
